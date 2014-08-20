@@ -136,7 +136,6 @@ $(document).ready(function() {
                                 $('.canjear').hide();
                             }
                         } else {
-
                             // $("#resultado").html("err");
                             $("#resultado").html(errorMsg);
                             
